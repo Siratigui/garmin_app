@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="4" lineNum="20" pc="268435479" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="4" lineNum="21" pc="268435483" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="4" lineNum="22" pc="268435495" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="4" lineNum="23" pc="268435514" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="5" lineNum="27" pc="268435531" symbol="onStart"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="5" lineNum="28" pc="268435535" symbol="onStart"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="5" lineNum="29" pc="268435579" symbol="onStart"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="5" lineNum="30" pc="268435607" symbol="onStart"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="6" lineNum="34" pc="268435643" symbol="onStop"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="7" lineNum="38" pc="268435648" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="7" lineNum="39" pc="268435652" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="8" lineNum="42" pc="268435704" symbol="onPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="8" lineNum="43" pc="268435708" symbol="onPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="8" lineNum="44" pc="268435725" symbol="onPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="48" pc="268435744" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="49" pc="268435748" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="50" pc="268435751" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="51" pc="268435754" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="52" pc="268435779" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="53" pc="268435786" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="54" pc="268435805" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="9" lineNum="56" pc="268435827" symbol="getPosition"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="59" pc="268435855" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="60" pc="268435859" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="61" pc="268435866" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="62" pc="268435891" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="63" pc="268435898" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="66" pc="268435905" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="67" pc="268435931" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="68" pc="268435944" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="70" pc="268435954" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="71" pc="268435974" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="74" pc="268435984" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="76" pc="268435988" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="10" lineNum="78" pc="268436014" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="11" lineNum="82" pc="268436018" symbol="getCurrentSpeed"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="11" lineNum="83" pc="268436022" symbol="getCurrentSpeed"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="11" lineNum="84" pc="268436029" symbol="getCurrentSpeed"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="11" lineNum="85" pc="268436048" symbol="getCurrentSpeed"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="11" lineNum="86" pc="268436058" symbol="getCurrentSpeed"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="12" lineNum="89" pc="268436062" symbol="getPower"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="12" lineNum="90" pc="268436066" symbol="getPower"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="12" lineNum="91" pc="268436083" symbol="getPower"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="12" lineNum="92" pc="268436093" symbol="getPower"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="12" lineNum="93" pc="268436145" symbol="getPower"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="13" lineNum="96" pc="268436149" symbol="onReceive"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="13" lineNum="97" pc="268436153" symbol="onReceive"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="100" pc="268436237" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="101" pc="268436241" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="102" pc="268436251" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="103" pc="268436264" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="104" pc="268436277" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="105" pc="268436306" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="113" pc="268436404" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="117" pc="268436452" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebApp.mc" id="14" lineNum="119" pc="268436470" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="16" lineNum="12" pc="268436509" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="16" lineNum="13" pc="268436513" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="16" lineNum="14" pc="268436531" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="16" lineNum="15" pc="268436541" symbol="initialize"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="17" lineNum="19" pc="268436562" symbol="onLayout"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="17" lineNum="20" pc="268436566" symbol="onLayout"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="17" lineNum="21" pc="268436603" symbol="onLayout"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="18" lineNum="27" pc="268436644" symbol="onShow"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="19" lineNum="31" pc="268436649" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="19" lineNum="32" pc="268436653" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="20" lineNum="38" pc="268436674" symbol="onHide"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="21" lineNum="42" pc="268436679" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Administrator\\eclipse-workspace\\Web\\source\\WebView.mc" id="22" lineNum="46" pc="268436684" symbol="onEnterSleep"/>
+<entry filename="Rez" id="28" lineNum="15" pc="268436689" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="17" pc="268436701" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="19" pc="268436844" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="24" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="18" method="true" symbol="getPower"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="20" method="true" symbol="makeRequest"/>
+<entry id="16" method="true" symbol="getHeartRate"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="11" object="true" symbol="WebView"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="9" symbol="URL"/>
+<entry id="10" object="true" symbol="WebApp"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="12" symbol="myCount"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="17" method="true" symbol="getCurrentSpeed"/>
+<entry id="14" method="true" symbol="onPosition"/>
+<entry id="21" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="13" method="true" symbol="timerCallback"/>
+<entry id="8389844" symbol="responseType"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="26" symbol="_message"/>
+<entry id="15" method="true" symbol="getPosition"/>
+<entry id="22" module="true" symbol="Menus"/>
+<entry id="19" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435642" name="myTimer" stackId="2" startPc="268435535"/>
+<entry endPc="268435643" name="state" stackId="1" startPc="268435531"/>
+<entry endPc="268435648" name="state" stackId="1" startPc="268435643"/>
+<entry endPc="268435743" name="gps" stackId="2" startPc="268435708"/>
+<entry endPc="268435744" name="info" stackId="1" startPc="268435704"/>
+<entry endPc="268435854" name="positionInfo" stackId="3" startPc="268435748"/>
+<entry endPc="268435854" name="long" stackId="2" startPc="268435748"/>
+<entry endPc="268435854" name="lat" stackId="1" startPc="268435748"/>
+<entry endPc="268436014" name="heartRateSample" stackId="4" startPc="268435905"/>
+<entry endPc="268436014" name="heartRate" stackId="5" startPc="268435905"/>
+<entry endPc="268436014" name="heartRateHistory" stackId="3" startPc="268435905"/>
+<entry endPc="268436017" name="currentHeartRate" stackId="2" startPc="268435859"/>
+<entry endPc="268436017" name="heartRateText" stackId="1" startPc="268435859"/>
+<entry endPc="268436061" name="spd" stackId="1" startPc="268436022"/>
+<entry endPc="268436061" name="info" stackId="2" startPc="268436022"/>
+<entry endPc="268436148" name="batStr" stackId="3" startPc="268436066"/>
+<entry endPc="268436148" name="stats" stackId="1" startPc="268436066"/>
+<entry endPc="268436148" name="pwr" stackId="2" startPc="268436066"/>
+<entry endPc="268436237" name="responseCode" stackId="1" startPc="268436149"/>
+<entry endPc="268436237" name="data" stackId="2" startPc="268436149"/>
+<entry endPc="268436508" name="options" stackId="6" startPc="268436241"/>
+<entry endPc="268436508" name="url" stackId="1" startPc="268436241"/>
+<entry endPc="268436508" name="responseCallback" stackId="7" startPc="268436241"/>
+<entry endPc="268436508" name="hbr" stackId="3" startPc="268436241"/>
+<entry endPc="268436508" name="myrand" stackId="4" startPc="268436241"/>
+<entry endPc="268436508" name="params" stackId="5" startPc="268436241"/>
+<entry endPc="268436508" name="pos" stackId="2" startPc="268436241"/>
+<entry endPc="268436562" name="message" stackId="1" startPc="268436509"/>
+<entry endPc="268436644" name="dc" stackId="1" startPc="268436562"/>
+<entry endPc="268436674" name="dc" stackId="1" startPc="268436649"/>
+<entry endPc="268436861" name="rez_cmp_local_text_message" stackId="2" startPc="268436701"/>
+<entry endPc="268436862" name="dc" stackId="1" startPc="268436689"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="WebApp" type="class"/>
+<dataEntry offset="317" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="396" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="435" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="466" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="497" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="536" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="567" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="606" parentId="globals" symbolId="WebView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WebApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WebApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPosition" parent="WebApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPosition" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHeartRate" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentSpeed" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPower" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="WebApp">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="WebApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WebView">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WebView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WebView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WebView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WebView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="WebView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="WebView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
